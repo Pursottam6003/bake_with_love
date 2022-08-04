@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43716839.css",
+    "main.js": "/static/js/main.b02ca19c.js",
+    "static/js/787.6d152395.chunk.js": "/static/js/787.6d152395.chunk.js",
+    "static/media/1.png": "/static/media/1.44e91362a566bfab8a9b.png",
+    "static/media/holi2.jpg": "/static/media/holi2.3a5883eada80bdc43763.jpg",
+    "static/media/add_images.jpg": "/static/media/add_images.ad17fba8bc829b169427.jpg",
+    "static/media/cake7.webp": "/static/media/cake7.1601853f3c2419c43ba5.webp",
+    "static/media/girl_birthday.jpg": "/static/media/girl_birthday.53ae7687b608988b9d0f.jpg",
+    "static/media/pic.png": "/static/media/pic.5cb705c67365938da772.png",
+    "static/media/grad1.jpg": "/static/media/grad1.80197a2b95a2626f0035.jpg",
+    "static/media/birthday_cele.jpg": "/static/media/birthday_cele.56b433b72034d8805e46.jpg",
+    "static/media/sp3.jpg": "/static/media/sp3.6f49820d504b8a10c22c.jpg",
+    "static/media/GirlBakingCake.jpg": "/static/media/GirlBakingCake.d83183d3ddc69dd732a5.jpg",
+    "static/media/cake5.webp": "/static/media/cake5.44b08e3e4dcf61d2f137.webp",
+    "static/media/cake6.webp": "/static/media/cake6.f173a08507dbfab083a3.webp",
+    "static/media/christmas2.webp": "/static/media/christmas2.196ba818252724538578.webp",
+    "static/media/valentine1.jpg": "/static/media/valentine1.ea8a98c83ece3a9264dd.jpg",
+    "static/media/wed4.jpg": "/static/media/wed4.e621eb79295098d7eb54.jpg",
+    "static/media/anni4.jpg": "/static/media/anni4.0691ad19fc40a2711fd3.jpg",
+    "static/media/innugration.jpg": "/static/media/innugration.3698b3f3f571e3100d00.jpg",
+    "static/media/diwali3.jpg": "/static/media/diwali3.a539eeb554097aa6b4ca.jpg",
+    "static/media/makar_sankranti.jpg": "/static/media/makar_sankranti.eb21d2b5125cf0366c6c.jpg",
+    "static/media/Bake_with_love.png": "/static/media/Bake_with_love.e140ef85ba86b12c43e6.png",
+    "index.html": "/index.html",
+    "main.43716839.css.map": "/static/css/main.43716839.css.map",
+    "main.b02ca19c.js.map": "/static/js/main.b02ca19c.js.map",
+    "787.6d152395.chunk.js.map": "/static/js/787.6d152395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43716839.css",
+    "static/js/main.b02ca19c.js"
+  ]
+}
